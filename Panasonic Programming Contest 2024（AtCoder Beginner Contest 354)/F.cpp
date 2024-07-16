@@ -51,9 +51,9 @@ int main() {
         int size = resultSet.size();
         cout<<size<<endl;
         for (auto node : resultSet) {
-            cout << node << " ";
+            cout<<node<<" ";
         }
-        cout << endl;
+        cout<<endl;
     }
     return 0;
 }
